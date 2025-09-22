@@ -12,9 +12,9 @@
 
 This repository contains all hands-on activities, demos, assignments, and resources for your **8-week Software Testing (Intermediate) course**, aligned with ISTQB principles and real-world QA practices.
 
-Whether you’re preparing for certification, transitioning into QA, or leveling up your testing skills — this course will equip you to **design, execute, and report tests like a professional**.
+Whether you’re preparing for certification, transitioning into QA, or leveling up your testing skills this course will equip you to **design, execute, and report tests like a professional**.
 
-You won’t just learn theory — you’ll **test real apps, file real bug reports, manage test cases, and explore automation** — all in a safe, guided environment.
+You won’t just learn theory, you’ll **test real apps, file real bug reports, manage test cases, and explore automation** all in a safe, guided environment.
 
 ---
 
@@ -46,7 +46,7 @@ Each week focuses on a core testing competency. All materials are organized in c
 - 🐙 A GitHub account (free)
 - 🧠 Curiosity and attention to detail — your most important tools!
 
-> 💡 No prior automation or coding experience required — we start from testing fundamentals.
+> 💡 No prior automation or coding experience required, we start from testing fundamentals.
 
 ---
 
