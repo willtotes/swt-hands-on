@@ -41,6 +41,7 @@
 1. Type “NAIROBI”
 2. Click “Check Weather”
 
-**Expected**: Should show weather for Nairobi
+**Expected**: Should show the weather for Nairobi
 **Actual**: Shows “City not found”
 **Severity**: Medium
+
