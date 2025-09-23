@@ -93,7 +93,7 @@ Stuck? Confused? Excited? Share it!
 
 ## 🚀 Ready to Begin?
 
-➡️ Navigate to → [`week-1-fundamentals/`](swt-wk 1/)  
+➡️ Navigate to → [`week-1-fundamentals/`](swt-wk-1/)  
 Your first hands-on bug hunt awaits!
 
 ---
