@@ -22,6 +22,7 @@ You won’t just learn theory, you’ll **test real apps, file real bug reports,
 
 Each week focuses on a core testing competency. All materials are organized in clearly labeled folders:
 
+```
 /st-course/
 ├── 📄 README.md ← You are here!
 ├── 📁 week-1-fundamentals/ ← Fundamentals of Testing + Bug Hunt
@@ -32,7 +33,7 @@ Each week focuses on a core testing competency. All materials are organized in c
 ├── 📁 week-6-defect-management/ ← Lifecycle, Tools, Triage
 ├── 📁 week-7-test-automation/ ← Intro to Automation, Tools, Scripts
 └── 📁 week-8-career-insights/ ← Portfolios, Resumes, Industry Trends
-
+```
 
 > 🔍 **Start with Week 1** — each week builds on the last. Don’t skip ahead!
 
